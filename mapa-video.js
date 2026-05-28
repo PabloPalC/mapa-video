@@ -11,7 +11,15 @@
       meta: 'Mar Menor · Murcia',
       coords: [37.676, -0.726],
       videoId: '1K2kHQ8shXs',
-      desc: 'Estrecho cordón litoral entre el Mar Menor y el Mediterráneo'
+      desc: 'Estrecho cordón litoral de 22 km que separa el Mar Menor del Mediterráneo, con agua cálida a ambos lados y viento constante ideal para deportes náuticos.',
+      type: 'Litoral · Laguna costera',
+      tags: ['Mar Menor', 'Windsurf', 'Kitesurf', 'Aguas tranquilas', 'Deportes náuticos'],
+      highlights: [
+        '22 km de cordón litoral natural único en Europa',
+        'Aguas del Mar Menor 5 °C más cálidas que el Mediterráneo',
+        'Centro internacional de deportes náuticos y kitesurf'
+      ],
+      bookUrl: ''
     },
     {
       id: 'santiago-ribera',
@@ -19,7 +27,15 @@
       meta: 'San Javier · Murcia',
       coords: [37.803, -0.832],
       videoId: 'jCSG6rH4RTs',
-      desc: 'Puerto deportivo y paseo marítimo del Mar Menor'
+      desc: 'Localidad marinera del Mar Menor con un puerto deportivo de referencia y un paseo marítimo ideal para disfrutar del atardecer sobre las aguas tranquilas.',
+      type: 'Puerto deportivo · Paseo marítimo',
+      tags: ['Puerto', 'Paseo marítimo', 'Gastronomía', 'Mar Menor', 'Vela'],
+      highlights: [
+        'Puerto deportivo con más de 500 amarres',
+        'Paseo marítimo de 2 km junto al Mar Menor',
+        'Próximo al Aeropuerto Internacional de la Región de Murcia'
+      ],
+      bookUrl: ''
     },
     {
       id: 'cartagena',
@@ -27,7 +43,15 @@
       meta: 'Puerto histórico · Murcia',
       coords: [37.605, -0.990],
       videoId: 'AEtYiaMH_7M',
-      desc: 'Puerto milenario y ciudad histórica de la Costa Cálida'
+      desc: 'Ciudad milenaria con uno de los puertos naturales más importantes del Mediterráneo, rica en patrimonio romano, modernista y naval.',
+      type: 'Ciudad histórica · Puerto',
+      tags: ['Historia', 'Puerto', 'Museos', 'Arquitectura', 'Gastronomía', 'Romano'],
+      highlights: [
+        'Más de 3.000 años de historia continua habitada',
+        'Teatro romano mejor conservado de España',
+        'Base naval de la Armada Española con visitas guiadas'
+      ],
+      bookUrl: ''
     },
     {
       id: 'mazarron',
@@ -35,7 +59,15 @@
       meta: 'Costa Cálida · Murcia',
       coords: [37.573, -1.258],
       videoId: '09foz20hlhw',
-      desc: 'Playas de Nares, La Pava y Bahía con aguas cristalinas'
+      desc: 'Enclave costero con aguas de alta transparencia, calas recónditas y más de 300 días de sol al año. Ideal para buceo y snorkel.',
+      type: 'Costa · Playas y calas',
+      tags: ['Playas', 'Snorkel', 'Buceo', 'Aguas cristalinas', 'Pesca', 'Calas'],
+      highlights: [
+        'Visibilidad submarina de hasta 15 metros en verano',
+        'Playas de cala sin masificación y acceso libre',
+        'Más de 300 días de sol al año'
+      ],
+      bookUrl: ''
     },
     {
       id: 'aguilas',
@@ -43,7 +75,15 @@
       meta: 'Costa Cálida · Murcia',
       coords: [37.405, -1.582],
       videoId: 'G-ToH0003qc',
-      desc: 'El secreto mejor guardado del litoral murciano'
+      desc: 'El secreto mejor guardado del litoral murciano: 34 playas y calas en 26 km de costa con aguas de las más limpias del Mediterráneo.',
+      type: 'Costa · Calas vírgenes',
+      tags: ['Calas vírgenes', 'Snorkel', 'Buceo', 'Naturaleza', 'Gastronomía', 'Senderismo'],
+      highlights: [
+        '34 playas y calas distribuidas en 26 km de costa',
+        'Reserva marina con ecosistema submarino excepcional',
+        'Ciudad con el carnaval más antiguo de España'
+      ],
+      bookUrl: ''
     },
     {
       id: 'torrevieja',
@@ -51,7 +91,15 @@
       meta: 'Costa Blanca Sur · Alicante',
       coords: [37.977, -0.684],
       videoId: 'U6U3942WZ0g',
-      desc: 'Lagunas rosadas, sal y el Mediterráneo de la Costa Blanca'
+      desc: 'Ciudad costera única por sus dos lagunas naturales de colores rosa y verde, las salinas más productivas de España y un litoral mediterráneo de gran calidad.',
+      type: 'Lagunas · Salinas · Costa Blanca',
+      tags: ['Lagunas rosas', 'Salinas', 'Flamencos', 'Costa Blanca', 'Deporte', 'Naturaleza'],
+      highlights: [
+        'Dos lagunas naturales con colores únicos en Europa',
+        'Las salinas más productivas de España en activo',
+        'Ruta de observación de flamencos y aves migratorias'
+      ],
+      bookUrl: ''
     },
     {
       id: 'guardamar',
@@ -59,7 +107,15 @@
       meta: 'Vega Baja · Alicante',
       coords: [38.093, -0.658],
       videoId: 'Zrp0cK0hXpA',
-      desc: 'Dunas, pinares y playas vírgenes del Bajo Segura'
+      desc: 'Paraíso natural donde las dunas móviles y 800 hectáreas de pinares limitan con playas de Bandera Azul y la desembocadura del río Segura.',
+      type: 'Dunas · Pinar · Playa natural',
+      tags: ['Dunas', 'Pinar', 'Playas vírgenes', 'Naturaleza', 'Ciclismo', 'Bandera Azul'],
+      highlights: [
+        'Parque natural con 800 ha de pinares sobre dunas activas',
+        'Playas con Bandera Azul entre sistemas dunares',
+        'Desembocadura del río Segura con aves singulares'
+      ],
+      bookUrl: ''
     },
     {
       id: 'santa-pola',
@@ -67,7 +123,15 @@
       meta: 'Cap de Santa Pola · Alicante',
       coords: [38.187, -0.556],
       videoId: 'cx2hoHSeCcw',
-      desc: 'Salinas, faro y las mejores puestas de sol de la Costa Blanca'
+      desc: 'Cabo y localidad pesquera con un parque natural de salinas donde habitan flamencos, las mejores puestas de sol del litoral alicantino y un puerto de gran actividad.',
+      type: 'Cabo · Salinas · Puerto pesquero',
+      tags: ['Salinas', 'Faro', 'Puesta de sol', 'Parque Natural', 'Navegación', 'Flamencos'],
+      highlights: [
+        'Parque Natural de Las Salinas con colonias de flamencos',
+        'Las mejores puestas de sol del litoral alicantino',
+        'Puerto pesquero activo con lonja de pescado fresco'
+      ],
+      bookUrl: ''
     }
   ];
 
@@ -192,9 +256,30 @@
     // Pan map
     map.flyTo(loc.coords, 12, { duration: 1.2 });
 
-    // Update panel
+    // Update panel header
     document.getElementById('panel-name').textContent = loc.name;
     document.getElementById('panel-meta').textContent = loc.meta;
+
+    // Update place info
+    document.getElementById('place-type').textContent = loc.type || '';
+    document.getElementById('place-desc').textContent = loc.desc || '';
+
+    var tagsEl = document.getElementById('place-tags');
+    tagsEl.innerHTML = '';
+    (loc.tags || []).forEach(function (tag) {
+      var span = document.createElement('span');
+      span.className = 'place-tag';
+      span.textContent = tag;
+      tagsEl.appendChild(span);
+    });
+
+    var hlEl = document.getElementById('place-highlights');
+    hlEl.innerHTML = '';
+    (loc.highlights || []).forEach(function (hl) {
+      var li = document.createElement('li');
+      li.textContent = hl;
+      hlEl.appendChild(li);
+    });
 
     // Load video & related
     loadVideo(loc);
